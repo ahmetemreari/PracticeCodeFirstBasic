@@ -6,7 +6,7 @@ Bu proje, Entity Framework Core kullanarak temel CRUD işlemlerini gerçekleşti
 
 1. Bu projeyi yerel makinenize klonlayın:
     ```sh
-    git clone https://github.com/kullaniciadi/PracticeCodeFirstBasic.git
+    git clone https://github.com/ahmetemreari/PracticeCodeFirstBasic.git
     cd PracticeCodeFirstBasic
     ```
 
